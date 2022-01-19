@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics, music and language processing, and machine learning
 - 🌱 I’m currently learning Python and PyTorch
 - 💞️ I’m looking to collaborate on music based machine learning projects
-- 📫 How to reach me: austintatiousfunk@gmail.com
+- 📫 How to reach me: austin_funk@brown.edu or austinfunk03@gmail.com
 
 <!---
 chezgr8r/chezgr8r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
