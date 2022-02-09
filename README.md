@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Austin Funk, AKA @chezgr8r
 - 👀 I’m interested in robotics, music and language processing, and machine learning
-- 🌱 I’m currently learning Python and PyTorch
-- 💞️ I’m looking to collaborate on music based machine learning projects
+- 🌱 I’m currently learning C/C++, systems programming, and robotics integration with virtual reality
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me: austin_funk@brown.edu or austinfunk03@gmail.com
 
 <!---
